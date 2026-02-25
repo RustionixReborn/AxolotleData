@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "1",
+    "Title": "Welcome Update!",
+    "Content": "New features added!",
+    "PublishDate": "2024-01-01T12:00:00Z",
+    "Author": "Admin",
+    "IsImportant": true
+  }
+]
