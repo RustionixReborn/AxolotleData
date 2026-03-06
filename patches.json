@@ -1,8 +1,14 @@
 [
   {
-    "Title": "Patch 1.0",
-    "Date": "01.01.2025",
-    "Description": "New Fortnite version released!",
-    "ImageUrl": "https://raw.githubusercontent.com/yourrepo/main/patch1.png"
+    "Title": "Season X Update",
+    "Date": "15.01.2026",
+    "Description": "New Battle Pass and weapons added!",
+    "ImageUrl": "https://example.com/image1.png"
+  },
+  {
+    "Title": "Hotfix 7.41",
+    "Date": "20.01.2026",
+    "Description": "Bug fixes and performance improvements",
+    "ImageUrl": "https://example.com/image2.png"
   }
 ]
