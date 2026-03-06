@@ -1,10 +1,1 @@
-[
-  {
-    "discordId": "123456789",
-    "username": "UserName",
-    "email": "user@email.com",
-    "banned": false,
-    "banReason": "",
-    "joinedAt": "2026-01-15T10:30:00Z"
-  }
-]
+[{"discordId":"123456789","username":"TestUser","discordName":"TestUser#0000","email":"test@email.com","ipAddress":"192.168.1.1","firstLogin":"2025-01-01T00:00:00Z","lastLogin":"2025-01-01T00:00:00Z","isPlaying":false,"banned":false,"banReason":""}]
