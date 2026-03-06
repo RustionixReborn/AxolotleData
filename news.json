@@ -1,10 +1,14 @@
 [
   {
-    "Id": "1",
-    "Title": "Welcome Update!",
-    "Content": "New features added!",
-    "PublishDate": "2024-01-01T12:00:00Z",
-    "Author": "Admin",
-    "IsImportant": true
+    "Title": "Season X Update",
+    "Date": "15.01.2026",
+    "Description": "New Battle Pass and weapons added!",
+    "ImageUrl": "https://example.com/image1.png"
+  },
+  {
+    "Title": "Hotfix 7.41",
+    "Date": "20.01.2026",
+    "Description": "Bug fixes and performance improvements",
+    "ImageUrl": "https://example.com/image2.png"
   }
 ]
