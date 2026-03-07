@@ -8,19 +8,7 @@
     "firstLogin": "2025-01-01T00:00:00Z",
     "lastLogin": "2025-01-15T12:00:00Z",
     "isPlaying": false,
-    "banned": false,
-    "banReason": ""
-  },
-  {
-    "discordId": "1138932135646994484",
-    "username": "wechze",
-    "discordName": "wechze",
-    "email": "thqthanks228@gmail.com",
-    "ipAddress": "95.84.183.68",
-    "firstLogin": "2026-03-07T12:13:29.0942866Z",
-    "lastLogin": "2026-03-07T12:13:29.0942866Z",
-    "isPlaying": false,
-    "banned": false,
-    "banReason": ""
+    "banned": true,
+    "banReason": "Нарушение правил"
   }
 ]
