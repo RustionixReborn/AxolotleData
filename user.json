@@ -1,17 +1,1 @@
-{
-  "users": [
-    {
-      "discordId": "...",
-      "name": "...",
-      "discordUsername": "...",
-      "email": "...",
-      "ip": "...",
-      "firstLogin": "...",
-      "lastLogin": "...",
-      "isPlaying": false,
-      "banned": false,
-      "banReason": "",
-      "role": "Player"
-    }
-  ]
-}
+{"users":[{"discordId":"...","name":"...","discordUsername":"...","email":"...","ip":"...","firstLogin":"...","lastLogin":"...","isPlaying":false,"banned":false,"banReason":"","role":"Player"}]}
