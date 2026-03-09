@@ -1,29 +1,16 @@
 {
   "users": [
     {
-      "discordId": "123456789012345678",
-      "name": "German",
-      "discordUsername": "German#1234",
-      "email": "german@example.com",
-      "ip": "95.25.44.12",
-      "firstLogin": "2026-03-01 12:10",
-      "lastLogin": "2026-03-09 13:35",
+      "discordId": "...",
+      "name": "...",
+      "discordUsername": "...",
+      "email": "...",
+      "ip": "...",
+      "firstLogin": "...",
+      "lastLogin": "...",
       "isPlaying": false,
       "banned": false,
       "banReason": "",
-      "role": "Owner"
-    },
-    {
-      "discordId": "223456789012345679",
-      "name": "Alex",
-      "discordUsername": "alex#9999",
-      "email": "alex@mail.com",
-      "ip": "91.210.11.8",
-      "firstLogin": "2026-03-02 10:15",
-      "lastLogin": "2026-03-09 11:20",
-      "isPlaying": false,
-      "banned": true,
-      "banReason": "Cheating",
       "role": "Player"
     }
   ]
