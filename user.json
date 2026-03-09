@@ -1,26 +1,30 @@
-[
-  {
-    "discordId": "1138932135646994484",
-    "username": "wechze",
-    "discordName": "wechze",
-    "email": "thqthanks228@gmail.com",
-    "ipAddress": "95.84.183.68",
-    "firstLogin": "2026-03-07T12:39:03.3819777Z",
-    "lastLogin": "2026-03-08T10:29:58.4154971Z",
-    "isPlaying": false,
-    "banned": false,
-    "banReason": ""
-  },
-  {
-    "discordId": "1256997864147956737",
-    "username": ".silixon",
-    "discordName": ".silixon",
-    "email": "semsemsem.sch20708@gmail.com",
-    "ipAddress": "95.84.183.68",
-    "firstLogin": "2026-03-07T13:04:13.7191530Z",
-    "lastLogin": "2026-03-07T13:15:04.1416906Z",
-    "isPlaying": false,
-    "banned": false,
-    "banReason": ""
-  }
-]
+{
+  "users": [
+    {
+      "discordId": "123456789012345678",
+      "name": "German",
+      "discordUsername": "German#1234",
+      "email": "german@example.com",
+      "ip": "95.25.44.12",
+      "firstLogin": "2026-03-01 12:10",
+      "lastLogin": "2026-03-09 13:35",
+      "isPlaying": false,
+      "banned": false,
+      "banReason": "",
+      "role": "Owner"
+    },
+    {
+      "discordId": "223456789012345679",
+      "name": "Alex",
+      "discordUsername": "alex#9999",
+      "email": "alex@mail.com",
+      "ip": "91.210.11.8",
+      "firstLogin": "2026-03-02 10:15",
+      "lastLogin": "2026-03-09 11:20",
+      "isPlaying": false,
+      "banned": true,
+      "banReason": "Cheating",
+      "role": "Player"
+    }
+  ]
+}
